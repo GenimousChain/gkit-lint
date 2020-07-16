@@ -1,0 +1,12 @@
+{
+  "name": "gkit-lint",
+  "version": "1.0.0",
+  "description": "The gkit linter for GenimousChain 2.0",
+  "main": "contract/index.d.ts",
+  "typings": "index.d.ts",
+  "repository": "https://github.com/GenimousChain/gkit-lint.git",
+  "license": "MIT",
+  "keywords": [
+    "GenimousChain gkit lint"
+  ]
+}

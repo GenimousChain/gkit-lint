@@ -1,12 +1,14 @@
 {
   "name": "gkit-lint",
   "version": "1.0.0",
+  "author": "feiyue.xk@qq.com",
   "description": "The gkit linter for GenimousChain 2.0",
   "main": "contract/index.d.ts",
   "typings": "index.d.ts",
   "repository": "https://github.com/GenimousChain/gkit-lint.git",
-  "license": "MIT",
+  "license": "Apache 2.0",
   "keywords": [
     "GenimousChain gkit lint"
   ]
 }
+

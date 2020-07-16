@@ -4,6 +4,9 @@
   "author": "feiyue.xk@qq.com",
   "description": "The gkit linter for GenimousChain 2.0",
   "main": "contract/index.d.ts",
+  "scripts": {
+    "test": "echo hello gkit-lint."
+  },
   "typings": "index.d.ts",
   "repository": "https://github.com/GenimousChain/gkit-lint.git",
   "license": "Apache 2.0",
